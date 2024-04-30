@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/pf_pkg/pf_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/pf_pkg/pf_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/pf_pkg/pf_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/pf_pkg/pf_pkg.egg-info/requires.txt
+writing top-level names to ../../build/pf_pkg/pf_pkg.egg-info/top_level.txt
+reading manifest file '../../build/pf_pkg/pf_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/pf_pkg/pf_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+byte-compiling /home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages/pf_pkg/pf.py to pf.cpython-310.pyc
+running install_data
+Sorry: IndentationError: expected an indented block after function definition on line 22 (pf.py, line 29)
+running install_egg_info
+removing '/home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages/pf_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/pf_pkg/pf_pkg.egg-info to /home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages/pf_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/chris/Racing-pipline/build/pf_pkg/install.log'

@@ -1,0 +1,33 @@
+[0.842s] Invoking command in '/home/chris/Racing-pipline/src/pf_pkg': PYTHONPATH=/home/chris/Racing-pipline/build/pf_pkg/prefix_override:/home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pf_pkg build --build-base /home/chris/Racing-pipline/build/pf_pkg/build install --record /home/chris/Racing-pipline/build/pf_pkg/install.log --single-version-externally-managed install_data
+[1.011s] running egg_info
+[1.011s] creating ../../build/pf_pkg/pf_pkg.egg-info
+[1.012s] writing ../../build/pf_pkg/pf_pkg.egg-info/PKG-INFO
+[1.012s] writing dependency_links to ../../build/pf_pkg/pf_pkg.egg-info/dependency_links.txt
+[1.012s] writing entry points to ../../build/pf_pkg/pf_pkg.egg-info/entry_points.txt
+[1.012s] writing requirements to ../../build/pf_pkg/pf_pkg.egg-info/requires.txt
+[1.012s] writing top-level names to ../../build/pf_pkg/pf_pkg.egg-info/top_level.txt
+[1.012s] writing manifest file '../../build/pf_pkg/pf_pkg.egg-info/SOURCES.txt'
+[1.013s] reading manifest file '../../build/pf_pkg/pf_pkg.egg-info/SOURCES.txt'
+[1.013s] writing manifest file '../../build/pf_pkg/pf_pkg.egg-info/SOURCES.txt'
+[1.013s] running build
+[1.013s] running build_py
+[1.013s] creating /home/chris/Racing-pipline/build/pf_pkg/build
+[1.014s] creating /home/chris/Racing-pipline/build/pf_pkg/build/lib
+[1.014s] creating /home/chris/Racing-pipline/build/pf_pkg/build/lib/pf_pkg
+[1.014s] copying pf_pkg/__init__.py -> /home/chris/Racing-pipline/build/pf_pkg/build/lib/pf_pkg
+[1.014s] running install
+[1.014s] running install_lib
+[1.014s] creating /home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages/pf_pkg
+[1.014s] copying /home/chris/Racing-pipline/build/pf_pkg/build/lib/pf_pkg/__init__.py -> /home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages/pf_pkg
+[1.015s] byte-compiling /home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages/pf_pkg/__init__.py to __init__.cpython-310.pyc
+[1.015s] running install_data
+[1.015s] creating /home/chris/Racing-pipline/install/pf_pkg/share/ament_index
+[1.015s] creating /home/chris/Racing-pipline/install/pf_pkg/share/ament_index/resource_index
+[1.015s] creating /home/chris/Racing-pipline/install/pf_pkg/share/ament_index/resource_index/packages
+[1.015s] copying resource/pf_pkg -> /home/chris/Racing-pipline/install/pf_pkg/share/ament_index/resource_index/packages
+[1.015s] copying package.xml -> /home/chris/Racing-pipline/install/pf_pkg/share/pf_pkg
+[1.015s] running install_egg_info
+[1.016s] Copying ../../build/pf_pkg/pf_pkg.egg-info to /home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages/pf_pkg-0.0.0-py3.10.egg-info
+[1.017s] running install_scripts
+[1.031s] writing list of installed files to '/home/chris/Racing-pipline/build/pf_pkg/install.log'
+[1.055s] Invoked command in '/home/chris/Racing-pipline/src/pf_pkg' returned '0': PYTHONPATH=/home/chris/Racing-pipline/build/pf_pkg/prefix_override:/home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pf_pkg build --build-base /home/chris/Racing-pipline/build/pf_pkg/build install --record /home/chris/Racing-pipline/build/pf_pkg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,21 @@
+[0.626s] Invoking command in '/home/chris/Racing-pipline/src/localisation': PYTHONPATH=/home/chris/Racing-pipline/build/localisation/prefix_override:/home/chris/Racing-pipline/install/localisation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/localisation build --build-base /home/chris/Racing-pipline/build/localisation/build install --record /home/chris/Racing-pipline/build/localisation/install.log --single-version-externally-managed install_data
+[0.789s] running egg_info
+[0.790s] writing ../../build/localisation/localisation.egg-info/PKG-INFO
+[0.790s] writing dependency_links to ../../build/localisation/localisation.egg-info/dependency_links.txt
+[0.790s] writing entry points to ../../build/localisation/localisation.egg-info/entry_points.txt
+[0.790s] writing requirements to ../../build/localisation/localisation.egg-info/requires.txt
+[0.790s] writing top-level names to ../../build/localisation/localisation.egg-info/top_level.txt
+[0.791s] reading manifest file '../../build/localisation/localisation.egg-info/SOURCES.txt'
+[0.792s] writing manifest file '../../build/localisation/localisation.egg-info/SOURCES.txt'
+[0.792s] running build
+[0.792s] running build_py
+[0.792s] running install
+[0.792s] running install_lib
+[0.793s] running install_data
+[0.793s] running install_egg_info
+[0.794s] removing '/home/chris/Racing-pipline/install/localisation/lib/python3.10/site-packages/localisation-0.0.0-py3.10.egg-info' (and everything under it)
+[0.794s] Copying ../../build/localisation/localisation.egg-info to /home/chris/Racing-pipline/install/localisation/lib/python3.10/site-packages/localisation-0.0.0-py3.10.egg-info
+[0.794s] running install_scripts
+[0.807s] Installing pf script to /home/chris/Racing-pipline/install/localisation/lib/localisation
+[0.807s] writing list of installed files to '/home/chris/Racing-pipline/build/localisation/install.log'
+[0.828s] Invoked command in '/home/chris/Racing-pipline/src/localisation' returned '0': PYTHONPATH=/home/chris/Racing-pipline/build/localisation/prefix_override:/home/chris/Racing-pipline/install/localisation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/localisation build --build-base /home/chris/Racing-pipline/build/localisation/build install --record /home/chris/Racing-pipline/build/localisation/install.log --single-version-externally-managed install_data

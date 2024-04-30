@@ -1,0 +1,3 @@
+[console_scripts]
+pf = localisation.particle_filter:main
+

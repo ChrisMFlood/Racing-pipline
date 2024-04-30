@@ -1,0 +1,22 @@
+[0.843s] Invoking command in '/home/chris/Racing-pipline/src/pf_pkg': PYTHONPATH=/home/chris/Racing-pipline/build/pf_pkg/prefix_override:/home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pf_pkg build --build-base /home/chris/Racing-pipline/build/pf_pkg/build install --record /home/chris/Racing-pipline/build/pf_pkg/install.log --single-version-externally-managed install_data
+[1.012s] running egg_info
+[1.012s] writing ../../build/pf_pkg/pf_pkg.egg-info/PKG-INFO
+[1.012s] writing dependency_links to ../../build/pf_pkg/pf_pkg.egg-info/dependency_links.txt
+[1.012s] writing entry points to ../../build/pf_pkg/pf_pkg.egg-info/entry_points.txt
+[1.013s] writing requirements to ../../build/pf_pkg/pf_pkg.egg-info/requires.txt
+[1.013s] writing top-level names to ../../build/pf_pkg/pf_pkg.egg-info/top_level.txt
+[1.014s] reading manifest file '../../build/pf_pkg/pf_pkg.egg-info/SOURCES.txt'
+[1.015s] writing manifest file '../../build/pf_pkg/pf_pkg.egg-info/SOURCES.txt'
+[1.015s] running build
+[1.015s] running build_py
+[1.015s] running install
+[1.015s] running install_lib
+[1.016s] byte-compiling /home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages/pf_pkg/pf.py to pf.cpython-310.pyc
+[1.017s] Sorry: IndentationError: expected an indented block after function definition on line 22 (pf.py, line 29)
+[1.017s] running install_data
+[1.017s] running install_egg_info
+[1.018s] removing '/home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages/pf_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.018s] Copying ../../build/pf_pkg/pf_pkg.egg-info to /home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages/pf_pkg-0.0.0-py3.10.egg-info
+[1.018s] running install_scripts
+[1.033s] writing list of installed files to '/home/chris/Racing-pipline/build/pf_pkg/install.log'
+[1.074s] Invoked command in '/home/chris/Racing-pipline/src/pf_pkg' returned '0': PYTHONPATH=/home/chris/Racing-pipline/build/pf_pkg/prefix_override:/home/chris/Racing-pipline/install/pf_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pf_pkg build --build-base /home/chris/Racing-pipline/build/pf_pkg/build install --record /home/chris/Racing-pipline/build/pf_pkg/install.log --single-version-externally-managed install_data
