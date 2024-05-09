@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from car_interfaces/srv/CarControl.srv
+// generated code does not contain a copyright notice
+
+
+module car_interfaces {
+  module srv {
+    struct CarControl_Request {
+      boolean initial_position;
+    };
+    struct CarControl_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};

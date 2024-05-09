@@ -1,0 +1,37 @@
+[0.835s] Invoking command in '/home/chris/Racing-pipline/src/test_pkg': PYTHONPATH=/home/chris/Racing-pipline/build/test_pkg/prefix_override:/home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/test_pkg build --build-base /home/chris/Racing-pipline/build/test_pkg/build install --record /home/chris/Racing-pipline/build/test_pkg/install.log --single-version-externally-managed install_data
+[1.000s] running egg_info
+[1.001s] creating ../../build/test_pkg/test_pkg.egg-info
+[1.001s] writing ../../build/test_pkg/test_pkg.egg-info/PKG-INFO
+[1.001s] writing dependency_links to ../../build/test_pkg/test_pkg.egg-info/dependency_links.txt
+[1.001s] writing entry points to ../../build/test_pkg/test_pkg.egg-info/entry_points.txt
+[1.001s] writing requirements to ../../build/test_pkg/test_pkg.egg-info/requires.txt
+[1.001s] writing top-level names to ../../build/test_pkg/test_pkg.egg-info/top_level.txt
+[1.001s] writing manifest file '../../build/test_pkg/test_pkg.egg-info/SOURCES.txt'
+[1.003s] reading manifest file '../../build/test_pkg/test_pkg.egg-info/SOURCES.txt'
+[1.003s] writing manifest file '../../build/test_pkg/test_pkg.egg-info/SOURCES.txt'
+[1.003s] running build
+[1.003s] running build_py
+[1.003s] creating /home/chris/Racing-pipline/build/test_pkg/build
+[1.003s] creating /home/chris/Racing-pipline/build/test_pkg/build/lib
+[1.003s] creating /home/chris/Racing-pipline/build/test_pkg/build/lib/test_pkg
+[1.003s] copying test_pkg/__init__.py -> /home/chris/Racing-pipline/build/test_pkg/build/lib/test_pkg
+[1.003s] copying test_pkg/start_position.py -> /home/chris/Racing-pipline/build/test_pkg/build/lib/test_pkg
+[1.004s] running install
+[1.004s] running install_lib
+[1.004s] creating /home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages/test_pkg
+[1.004s] copying /home/chris/Racing-pipline/build/test_pkg/build/lib/test_pkg/__init__.py -> /home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages/test_pkg
+[1.004s] copying /home/chris/Racing-pipline/build/test_pkg/build/lib/test_pkg/start_position.py -> /home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages/test_pkg
+[1.004s] byte-compiling /home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages/test_pkg/__init__.py to __init__.cpython-310.pyc
+[1.005s] byte-compiling /home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages/test_pkg/start_position.py to start_position.cpython-310.pyc
+[1.005s] running install_data
+[1.005s] creating /home/chris/Racing-pipline/install/test_pkg/share/ament_index
+[1.005s] creating /home/chris/Racing-pipline/install/test_pkg/share/ament_index/resource_index
+[1.005s] creating /home/chris/Racing-pipline/install/test_pkg/share/ament_index/resource_index/packages
+[1.005s] copying resource/test_pkg -> /home/chris/Racing-pipline/install/test_pkg/share/ament_index/resource_index/packages
+[1.005s] copying package.xml -> /home/chris/Racing-pipline/install/test_pkg/share/test_pkg
+[1.005s] running install_egg_info
+[1.006s] Copying ../../build/test_pkg/test_pkg.egg-info to /home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages/test_pkg-0.0.0-py3.10.egg-info
+[1.007s] running install_scripts
+[1.020s] Installing start_position script to /home/chris/Racing-pipline/install/test_pkg/lib/test_pkg
+[1.020s] writing list of installed files to '/home/chris/Racing-pipline/build/test_pkg/install.log'
+[1.048s] Invoked command in '/home/chris/Racing-pipline/src/test_pkg' returned '0': PYTHONPATH=/home/chris/Racing-pipline/build/test_pkg/prefix_override:/home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/test_pkg build --build-base /home/chris/Racing-pipline/build/test_pkg/build install --record /home/chris/Racing-pipline/build/test_pkg/install.log --single-version-externally-managed install_data

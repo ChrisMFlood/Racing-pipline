@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+			'localisation_test_accuracy = benchmark_test_pkg.localisation_test_accuracy:main',
         ],
     },
 )

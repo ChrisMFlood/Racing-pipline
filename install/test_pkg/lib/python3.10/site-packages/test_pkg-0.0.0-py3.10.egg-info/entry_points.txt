@@ -1,0 +1,3 @@
+[console_scripts]
+start_position = test_pkg.start_position:main
+

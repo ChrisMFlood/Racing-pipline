@@ -1,0 +1,12 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from car_interfaces/msg/StartPosition.msg
+// generated code does not contain a copyright notice
+
+
+module car_interfaces {
+  module msg {
+    struct StartPosition {
+      boolean initial_position;
+    };
+  };
+};

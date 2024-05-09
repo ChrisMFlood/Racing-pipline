@@ -1,0 +1,21 @@
+[2.434s] Invoking command in '/home/chris/Racing-pipline/src/test_pkg': PYTHONPATH=/home/chris/Racing-pipline/build/test_pkg/prefix_override:/home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/test_pkg build --build-base /home/chris/Racing-pipline/build/test_pkg/build install --record /home/chris/Racing-pipline/build/test_pkg/install.log --single-version-externally-managed install_data
+[2.998s] running egg_info
+[2.998s] writing ../../build/test_pkg/test_pkg.egg-info/PKG-INFO
+[2.999s] writing dependency_links to ../../build/test_pkg/test_pkg.egg-info/dependency_links.txt
+[2.999s] writing entry points to ../../build/test_pkg/test_pkg.egg-info/entry_points.txt
+[2.999s] writing requirements to ../../build/test_pkg/test_pkg.egg-info/requires.txt
+[2.999s] writing top-level names to ../../build/test_pkg/test_pkg.egg-info/top_level.txt
+[3.002s] reading manifest file '../../build/test_pkg/test_pkg.egg-info/SOURCES.txt'
+[3.003s] writing manifest file '../../build/test_pkg/test_pkg.egg-info/SOURCES.txt'
+[3.004s] running build
+[3.004s] running build_py
+[3.004s] running install
+[3.004s] running install_lib
+[3.006s] running install_data
+[3.006s] running install_egg_info
+[3.010s] removing '/home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages/test_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[3.011s] Copying ../../build/test_pkg/test_pkg.egg-info to /home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages/test_pkg-0.0.0-py3.10.egg-info
+[3.012s] running install_scripts
+[3.044s] Installing start_position script to /home/chris/Racing-pipline/install/test_pkg/lib/test_pkg
+[3.044s] writing list of installed files to '/home/chris/Racing-pipline/build/test_pkg/install.log'
+[3.081s] Invoked command in '/home/chris/Racing-pipline/src/test_pkg' returned '0': PYTHONPATH=/home/chris/Racing-pipline/build/test_pkg/prefix_override:/home/chris/Racing-pipline/install/test_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/test_pkg build --build-base /home/chris/Racing-pipline/build/test_pkg/build install --record /home/chris/Racing-pipline/build/test_pkg/install.log --single-version-externally-managed install_data

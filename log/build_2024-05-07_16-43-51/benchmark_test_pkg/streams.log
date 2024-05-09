@@ -1,0 +1,21 @@
+[2.351s] Invoking command in '/home/chris/Racing-pipline/src/benchmark_test_pkg': PYTHONPATH=/home/chris/Racing-pipline/build/benchmark_test_pkg/prefix_override:/home/chris/Racing-pipline/install/benchmark_test_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/benchmark_test_pkg build --build-base /home/chris/Racing-pipline/build/benchmark_test_pkg/build install --record /home/chris/Racing-pipline/build/benchmark_test_pkg/install.log --single-version-externally-managed install_data
+[2.786s] running egg_info
+[2.787s] writing ../../build/benchmark_test_pkg/benchmark_test_pkg.egg-info/PKG-INFO
+[2.787s] writing dependency_links to ../../build/benchmark_test_pkg/benchmark_test_pkg.egg-info/dependency_links.txt
+[2.788s] writing entry points to ../../build/benchmark_test_pkg/benchmark_test_pkg.egg-info/entry_points.txt
+[2.788s] writing requirements to ../../build/benchmark_test_pkg/benchmark_test_pkg.egg-info/requires.txt
+[2.788s] writing top-level names to ../../build/benchmark_test_pkg/benchmark_test_pkg.egg-info/top_level.txt
+[2.791s] reading manifest file '../../build/benchmark_test_pkg/benchmark_test_pkg.egg-info/SOURCES.txt'
+[2.792s] writing manifest file '../../build/benchmark_test_pkg/benchmark_test_pkg.egg-info/SOURCES.txt'
+[2.792s] running build
+[2.792s] running build_py
+[2.792s] running install
+[2.793s] running install_lib
+[2.795s] running install_data
+[2.795s] running install_egg_info
+[2.797s] removing '/home/chris/Racing-pipline/install/benchmark_test_pkg/lib/python3.10/site-packages/benchmark_test_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.797s] Copying ../../build/benchmark_test_pkg/benchmark_test_pkg.egg-info to /home/chris/Racing-pipline/install/benchmark_test_pkg/lib/python3.10/site-packages/benchmark_test_pkg-0.0.0-py3.10.egg-info
+[2.798s] running install_scripts
+[2.828s] Installing localisation_test_accuracy script to /home/chris/Racing-pipline/install/benchmark_test_pkg/lib/benchmark_test_pkg
+[2.830s] writing list of installed files to '/home/chris/Racing-pipline/build/benchmark_test_pkg/install.log'
+[2.867s] Invoked command in '/home/chris/Racing-pipline/src/benchmark_test_pkg' returned '0': PYTHONPATH=/home/chris/Racing-pipline/build/benchmark_test_pkg/prefix_override:/home/chris/Racing-pipline/install/benchmark_test_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/benchmark_test_pkg build --build-base /home/chris/Racing-pipline/build/benchmark_test_pkg/build install --record /home/chris/Racing-pipline/build/benchmark_test_pkg/install.log --single-version-externally-managed install_data

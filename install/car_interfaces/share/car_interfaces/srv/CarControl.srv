@@ -1,0 +1,4 @@
+bool initial_position
+---
+bool success
+string message

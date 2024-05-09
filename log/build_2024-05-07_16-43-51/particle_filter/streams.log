@@ -1,0 +1,21 @@
+[2.516s] Invoking command in '/home/chris/Racing-pipline/src/particle_filter': PYTHONPATH=/home/chris/Racing-pipline/build/particle_filter/prefix_override:/home/chris/Racing-pipline/install/particle_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/particle_filter build --build-base /home/chris/Racing-pipline/build/particle_filter/build install --record /home/chris/Racing-pipline/build/particle_filter/install.log --single-version-externally-managed install_data
+[3.007s] running egg_info
+[3.009s] writing ../../build/particle_filter/particle_filter.egg-info/PKG-INFO
+[3.010s] writing dependency_links to ../../build/particle_filter/particle_filter.egg-info/dependency_links.txt
+[3.011s] writing entry points to ../../build/particle_filter/particle_filter.egg-info/entry_points.txt
+[3.012s] writing requirements to ../../build/particle_filter/particle_filter.egg-info/requires.txt
+[3.013s] writing top-level names to ../../build/particle_filter/particle_filter.egg-info/top_level.txt
+[3.017s] reading manifest file '../../build/particle_filter/particle_filter.egg-info/SOURCES.txt'
+[3.019s] writing manifest file '../../build/particle_filter/particle_filter.egg-info/SOURCES.txt'
+[3.020s] running build
+[3.021s] running build_py
+[3.022s] running install
+[3.023s] running install_lib
+[3.025s] running install_data
+[3.026s] running install_egg_info
+[3.029s] removing '/home/chris/Racing-pipline/install/particle_filter/lib/python3.10/site-packages/particle_filter-0.2.0-py3.10.egg-info' (and everything under it)
+[3.030s] Copying ../../build/particle_filter/particle_filter.egg-info to /home/chris/Racing-pipline/install/particle_filter/lib/python3.10/site-packages/particle_filter-0.2.0-py3.10.egg-info
+[3.032s] running install_scripts
+[3.062s] Installing particle_filter script to /home/chris/Racing-pipline/install/particle_filter/lib/particle_filter
+[3.065s] writing list of installed files to '/home/chris/Racing-pipline/build/particle_filter/install.log'
+[3.121s] Invoked command in '/home/chris/Racing-pipline/src/particle_filter' returned '0': PYTHONPATH=/home/chris/Racing-pipline/build/particle_filter/prefix_override:/home/chris/Racing-pipline/install/particle_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/particle_filter build --build-base /home/chris/Racing-pipline/build/particle_filter/build install --record /home/chris/Racing-pipline/build/particle_filter/install.log --single-version-externally-managed install_data

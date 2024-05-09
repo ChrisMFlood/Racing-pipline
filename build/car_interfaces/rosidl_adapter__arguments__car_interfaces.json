@@ -1,0 +1,7 @@
+{
+  "package_name": "car_interfaces",
+  "non_idl_tuples": [
+    "/home/chris/Racing-pipline/src/car_interfaces:msg/StartPosition.msg",
+    "/home/chris/Racing-pipline/src/car_interfaces:srv/CarControl.srv"
+  ]
+}
